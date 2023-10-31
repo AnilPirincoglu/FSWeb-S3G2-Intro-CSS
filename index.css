@@ -1,0 +1,33 @@
+*{
+    font-family: "Roboto Mono",'Times New Roman', Times, serif;
+}
+
+.container{
+margin: 0px 150px;
+width:1250px;
+}
+
+
+nav a{
+    width: 165px;
+    text-align: center;
+    color: white;
+    border-radius: .5rem;
+    padding: 15px;
+    margin: 10px 100px;
+    background-color: #5ED3EB;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+nav a:first-child{
+    background-color:#FF764E ; 
+    margin-left: 0px; 
+    padding: 5px;
+
+}
+
+nav a:last-child{
+    background-color: #FFCD69;
+    margin-right: 150px;
+}
